@@ -1,0 +1,6 @@
+{
+  "name": "ModelHub - AI Model Selection Utility",
+  "description": "Enterprise model selection utility with real-time data sync, offline IndexedDB cache, multi-dimensional filtering, E2EE messaging, and biometric authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
